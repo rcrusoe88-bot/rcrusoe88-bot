@@ -1,16 +1,20 @@
-## Hi there 👋
+# Reginald Crusoe
 
-<!--
-**rcrusoe88-bot/rcrusoe88-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+构建面向内容创作、AI 工作流与生物医药研究的实用工具。
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Personal Resume](https://github.com/rcrusoe88-bot/personal-resume): turn Markdown or Word resumes into polished A4 HTML resumes.
+- [WeChat Cover Design](https://github.com/rcrusoe88-bot/wechat-cover-design): design prompts and visual directions for WeChat article covers.
+- [WeChat Article HTML](https://github.com/rcrusoe88-bot/wechat-article-html): convert Word articles into WeChat-compatible inline HTML.
+- [PPT Requirements Discovery](https://github.com/rcrusoe88-bot/ppt-requirements-discovery): clarify presentation requirements before slide production.
+
+## Focus areas
+
+- AI skills and structured creative workflows
+- WeChat content production tools
+- mRNA/LNP research and CMC information workflows
+
+## Contributing
+
+Issues and focused pull requests are welcome. Please review each repository's documentation and contribution guide before opening a change.
