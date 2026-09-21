@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/rcrusoe88-bot?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
   </a>
   <a href="https://github.com/rcrusoe88-bot?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-21-blue?style=flat-square" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repositories-22-blue?style=flat-square" alt="Repos" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI_Agent_%7C_mRNA_CMC_%7C_Design_System-8a2be2?style=flat-square" alt="Focus Area" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
@@ -25,8 +25,8 @@
 
 ## 💡 About Me
 
-- 🔬 **Biotech & mRNA CMC**：深耕 mRNA IVT、靶向 LNP、分析方法与 CMC 台账管理，主导打造了面向生产研发的 Materia ERP 及服务于**「信使引擎」公众号**的完整内容智能与学术情报工作流。
-- 🤖 **AI Agent & Codex Skills**：设计严格遵循契约规范的即插即用 Agent 技能库（涵盖专利挖掘、内容创作、PPT 需求对齐等）。
+- 🔬 **Biotech & mRNA CMC**：深耕 mRNA IVT、靶向 LNP、分析方法与 CMC 台账管理，主导打造了面向生产研发的 Materia ERP 及服务于**「信使引擎 (RNAscript)」公众号**的端到端自动化内容智能与学术情报工作流。
+- 🤖 **AI Agent & Codex Skills**：设计严格遵循契约规范的即插即用 Agent 技能库（涵盖专利挖掘、深度写作、PPT 需求对齐等）。
 - 🎨 **Design System & Frontend**：主导高标准设计系统研发，主张“反 Slop 机械生成”，建立参数强约束的组件与契约层（`registry.json`）。
 - 🛠️ **System Utilities**：追求轻量、高安全、免管理员提权的现代化桌面工具与脚本化工程。
 
@@ -35,16 +35,17 @@
 ## 🌟 Featured Project Matrix (精选项目矩阵)
 
 ### 🧬 1. 生物医药与 mRNA/LNP 数字化 ·「信使引擎」工具矩阵 (Biotech & CMC)
-> 包含面向 mRNA/LNP 研发与生产的 **Materia ERP 全栈系统**，以及专为生物医药深度公众号**「信使引擎」**定制开发的全套自动化 Skill 闭环（从学术与专利情报检索、选题规划、标题摘要生成，到视觉封面设计与专业内联排版转换）。
+> 包含面向 mRNA/LNP 研发与生产的 **Materia ERP 全栈系统**，以及专为生物医药深度公众号**「信使引擎 (RNAscript)」**定制开发的全套自动化端到端生产闭环（涵盖文献情报检索、选题规划、长文撰写 Plugin、标题摘要提取、视觉封面生成与排版内联渲染）。
 
-| 项目 | 技术栈 / 规范 | 核心亮点与定位 | 仓库链接 |
+| 项目 | 技术栈 / 规范 | 核心亮点与「信使引擎」定位 | 仓库链接 |
 | :--- | :--- | :--- | :---: |
-| **wsj-erp-system** | `React` `NestJS` `PostgreSQL` | **Materia ERP 物料管理系统**：面向 mRNA/LNP 生产的物料出入库、批次追溯与效期管理（工业级全栈中枢） | [查看项目](https://github.com/rcrusoe88-bot/wsj-erp-system) |
+| **wsj-erp-system** | `React` `NestJS` `PostgreSQL` | **Materia ERP 物料管理系统**：面向 mRNA/LNP 生产的物料出入库、批次追溯与效期管理（全栈生产中枢） | [查看项目](https://github.com/rcrusoe88-bot/wsj-erp-system) |
+| **rnascript-wechat-plugin** | `Claude Code` `Plugin` | **「信使引擎」长文深度撰写 Plugin**：面向 RNAscript 公众号的 Claude Code 深度撰稿与内容工程辅助插件 | [查看项目](https://github.com/rcrusoe88-bot/rnascript-wechat-plugin) |
 | **mrna-cmc-web-search** | `Agent Skill` `Workflow` | **「信使引擎」mRNA CMC 检索流**：面向 IVT / 靶向 LNP / CAR-T 的学术文献与专利情报发现验证 Skill | [查看项目](https://github.com/rcrusoe88-bot/mrna-cmc-web-search) |
-| **wechat-cmc-topic-planner** | `Python` `DOI Tracker` | **「信使引擎」选题台账规划器**：双轴价值打分模型、跨报告 DOI 唯一性校验与历史台账追踪 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cmc-topic-planner) |
-| **wechat-title-summary** | `Shell` `Prompt Engineering` | **「信使引擎」标题与摘要生成**：医药领域定制，≤40字标题 + ≤120字精炼摘要 + 4套风格模板 | [查看项目](https://github.com/rcrusoe88-bot/wechat-title-summary) |
+| **wechat-cmc-topic-planner** | `Python` `DOI Tracker` | **「信使引擎」选题台账规划器**：双轴价值打分模型、跨报告 DOI 唯一性校验与历史选题台账 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cmc-topic-planner) |
+| **wechat-title-summary** | `Shell` `Prompt Engineering` | **「信使引擎」标题与摘要生成**：医药领域深度定制，≤40字标题 + ≤120字精炼摘要 + 4套风格模板 | [查看项目](https://github.com/rcrusoe88-bot/wechat-title-summary) |
 | **wechat-cover-design** | `Python` `AI Visual` | **「信使引擎」视觉封面设计 Skill**：13 套专业视觉主题体系，精准输出英文文生图 Prompt 与中文阐述 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cover-design) |
-| **wechat-article-html** | `Python` `Inline CSS` | **「信使引擎」公众号排版转换器**：Word 一键转微信兼容内联 CSS HTML，面向 mRNA 深度内容定制高雅主题 | [查看项目](https://github.com/rcrusoe88-bot/wechat-article-html) |
+| **wechat-article-html** | `Python` `Inline CSS` | **「信使引擎」公众号排版转换器**：Word 一键转微信兼容内联 CSS HTML，针对 mRNA 深度内容定制主题 | [查看项目](https://github.com/rcrusoe88-bot/wechat-article-html) |
 
 ### 🤖 2. AI 专项技能与 Agent Harness 工具链 (AI & Skills)
 | 项目 | 适用环境 / 类型 | 核心亮点 | 仓库链接 |
