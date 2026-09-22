@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/rcrusoe88-bot?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
   </a>
   <a href="https://github.com/rcrusoe88-bot?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-22-blue?style=flat-square" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repositories-19-blue?style=flat-square" alt="Repos" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI_Agent_%7C_mRNA_CMC_%7C_Design_System-8a2be2?style=flat-square" alt="Focus Area" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
@@ -41,7 +41,6 @@
 | :--- | :--- | :--- | :---: |
 | **wsj-erp-system** | `React` `NestJS` `PostgreSQL` | **Materia ERP 物料管理系统**：面向 mRNA/LNP 生产的物料出入库、批次追溯与效期管理（全栈生产中枢） | [查看项目](https://github.com/rcrusoe88-bot/wsj-erp-system) |
 | **rnascript-wechat-plugin** | `Claude Code` `Plugin` | **「信使引擎」长文深度撰写 Plugin**：面向 RNAscript 公众号的 Claude Code 深度撰稿与内容工程辅助插件 | [查看项目](https://github.com/rcrusoe88-bot/rnascript-wechat-plugin) |
-| **mrna-cmc-web-search** | `Agent Skill` `Workflow` | **「信使引擎」mRNA CMC 检索流**：面向 IVT / 靶向 LNP / CAR-T 的学术文献与专利情报发现验证 Skill | [查看项目](https://github.com/rcrusoe88-bot/mrna-cmc-web-search) |
 | **wechat-cmc-topic-planner** | `Python` `DOI Tracker` | **「信使引擎」选题台账规划器**：双轴价值打分模型、跨报告 DOI 唯一性校验与历史选题台账 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cmc-topic-planner) |
 | **wechat-title-summary** | `Shell` `Prompt Engineering` | **「信使引擎」标题与摘要生成**：医药领域深度定制，≤40字标题 + ≤120字精炼摘要 + 4套风格模板 | [查看项目](https://github.com/rcrusoe88-bot/wechat-title-summary) |
 | **wechat-cover-design** | `Python` `AI Visual` | **「信使引擎」视觉封面设计 Skill**：13 套专业视觉主题体系，精准输出英文文生图 Prompt 与中文阐述 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cover-design) |
@@ -53,7 +52,6 @@
 | **ppt-requirements-discovery** | `Claude Code` `Codex` | **PPT 需求前置勘测 Skill**：对话式需求澄清协议，制作幻灯片前自动对齐并产出标准化 Brief | [查看项目](https://github.com/rcrusoe88-bot/ppt-requirements-discovery) |
 | **patent-disclosure-skill** | `SkillHub` `Legal Tech` *(Fork)* | **中国专利交底书 Skill**：专利点挖掘、交底书（发明/实用/外观）编写与审查意见答复辅助 | [查看项目](https://github.com/rcrusoe88-bot/patent-disclosure-skill) |
 | **taste-skill** | `Prompt Engineering` *(Fork)* | **Taste-Skill 审美引擎**：给 AI 注入工业级审美意识，杜绝同质化与代码 Slop 生成 | [查看项目](https://github.com/rcrusoe88-bot/taste-skill) |
-| **everything-cc** | `Agent System` *(Fork)* | **Agent 优化环境系统**：面向 Claude Code、Codex、Cursor 的 Memory 与 Harness 优化体系 | [查看项目](https://github.com/rcrusoe88-bot/everything-cc) |
 | **dsh-wanghong-handwritten-ppt**| `DeepSeek Harness` *(Fork)* | **王虹学术手写风 PPT**：Notability 风格学术手写幻灯片生成与导出 Skill | [查看项目](https://github.com/rcrusoe88-bot/dsh-wanghong-handwritten-ppt) |
 
 ### 🎨 3. 设计系统与现代全栈生态 (Design & Full-Stack)
@@ -63,7 +61,6 @@
 | **personal-resume** | `HTML5` `Print CSS` `Markdown` | **个人简历排版引擎**：Markdown/Word 一键生成 A4 级 HTML 简历，8 套模板 × 12 种配色 | [查看项目](https://github.com/rcrusoe88-bot/personal-resume) |
 | **yuxiaomo-ai-notes** | `Next.js` `GitHub Pages` | **余小莫的 AI 学习笔记**：个人技术博客，沉淀 Agentic 编程心得与系统架构思考 | [查看项目](https://github.com/rcrusoe88-bot/yuxiaomo-ai-notes) |
 | **star-observatory** | `HTML5` `Interactive UI` | **余小莫的星空观察台**：个人前端视觉交互与创意数据展厅 | [查看项目](https://github.com/rcrusoe88-bot/star-observatory) |
-| **yuxiaomo-workstation** | `JavaScript` `Productivity` | **余小莫个人高效工作台**：聚合本地研发工作流与高效导航底座 | [查看项目](https://github.com/rcrusoe88-bot/yuxiaomo-workstation) |
 | **esther-design-system** | `Design System` *(Fork)* | **个人 IP 视觉设计系统参考**：IP 视觉与规范体系参考方案 | [查看项目](https://github.com/rcrusoe88-bot/esther-design-system) |
 
 ### 🛡️ 4. 系统效率与平台探索 (System Utilities & Platforms)
@@ -71,7 +68,6 @@
 | :--- | :--- | :--- | :---: |
 | **qingdaofu** | `PowerShell` `Go / Wails` | **清道夫 (Windows Cleaner)**：数据驱动的安全瘦身工具，71 条规则，风险项入回收站，免提权 | [查看项目](https://github.com/rcrusoe88-bot/qingdaofu) |
 | **OpenMAIC** | `Multi-Agent` `Python` *(Fork)* | **开源多 Agent 互动教学模拟教室**：一键开启沉浸式多智能体协作课堂体验 | [查看项目](https://github.com/rcrusoe88-bot/OpenMAIC) |
-| **screenshot-to-code** | `React` `Tailwind` `AI` *(Fork)* | **截图转代码工具**：将 UI 设计截图转化为整洁的高质量前端工程代码 | [查看项目](https://github.com/rcrusoe88-bot/screenshot-to-code) |
 
 ---
 
