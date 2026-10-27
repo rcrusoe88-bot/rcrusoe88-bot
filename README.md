@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/rcrusoe88-bot?label=Followers&style=flat-square&color=2ea44f" alt="Followers" />
   </a>
   <a href="https://github.com/rcrusoe88-bot?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-16-blue?style=flat-square" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repositories-17-blue?style=flat-square" alt="Repos" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI_Agent_%7C_mRNA_CMC_%7C_Design_System-8a2be2?style=flat-square" alt="Focus Area" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
@@ -42,7 +42,7 @@
 | **wsj-erp-system** | `React` `NestJS` `PostgreSQL` | **Materia ERP 物料管理系统**：面向 mRNA/LNP 生产的物料出入库、批次追溯与效期管理（全栈生产中枢） | [查看项目](https://github.com/rcrusoe88-bot/wsj-erp-system) |
 | **lit-mining** | `Python` `Multi-Agent` `Workflow` | **文献挖掘完整工作流**：主题句 → 检索式拆解 → 命中量探测 → 人工审核 → 多源采集 → 打水分层 → 下载 OA 全文 → 分层报告。跨 Claude Code / ChatGPT / WorkBuddy | [查看项目](https://github.com/rcrusoe88-bot/lit-mining) |
 | **pmc-oa-pdf** | `Python` `Stdlib` `PMC API` | **PMC OA PDF 批量下载引擎**：绕过 pmc.ncbi.nlm.nih.gov 工作量证明验证机制（PoW gate），纯标准库实现，98.7% 实测覆盖率 | [查看项目](https://github.com/rcrusoe88-bot/pmc-oa-pdf) |
-| **rnascript-wechat** | `Claude Code` `Prompt` *(Private)* | **「信使引擎」深度推文创作 Skill**：面向 mRNA/LNP 领域的前沿论文拆解、主题创作与 Word 规范交付 | [查看项目](https://github.com/rcrusoe88-bot/rnascript-wechat) |
+| **rnascript-wechat** | `Claude Code` `Prompt` *(Private)* | **「信使引擎」深度推文创作 Skill**：面向 mRNA/LNP 领域的前沿论文拆解、主题创作与 Word 规范交付 | 私有仓库，不公开 |
 | **wechat-cmc-topic-planner** | `Python` `DOI Tracker` | **「信使引擎」选题台账规划器**：双轴价值打分模型、跨报告 DOI 唯一性校验与历史选题台账 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cmc-topic-planner) |
 | **wechat-title-summary** | `Shell` `Prompt Engineering` | **「信使引擎」标题与摘要生成**：医药领域深度定制，≤40字标题 + ≤120字精炼摘要 + 4套风格模板 | [查看项目](https://github.com/rcrusoe88-bot/wechat-title-summary) |
 | **wechat-cover-design** | `Python` `AI Visual` | **「信使引擎」视觉封面设计 Skill**：13 套专业视觉主题体系，精准输出英文文生图 Prompt 与中文阐述 | [查看项目](https://github.com/rcrusoe88-bot/wechat-cover-design) |
